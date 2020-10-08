@@ -144,7 +144,7 @@ def checkMaxVal(val,maxX,maxY,maxZ,maxA,maxB,maxC):
 
     return val
 
-
+##############Test################
 # Example on how to use it in the main function
 if __name__ == '__main__':
     joy = initCont()
